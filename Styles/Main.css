@@ -1,8 +1,8 @@
-body {
-    background-image: linear-gradient(180deg, red, yellow);
+html {
+    background: rgb(44,40,51);
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
 h1, h2, li, a {
-    color:antiquewhite;
+    color:rgb(255, 255, 255);
 }
